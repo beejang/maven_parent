@@ -12,6 +12,7 @@ public class UserInfo {
         this.id = id;
     }
 
+    //
     public String getName() {
         return name;
     }
